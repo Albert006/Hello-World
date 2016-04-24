@@ -1,5 +1,5 @@
 # Hello World
-first project
+First project
 
 
 
